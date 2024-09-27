@@ -16,7 +16,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-MFL&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=1C1C1C" />
 </div>
 
- -------------------------------------------------------------------------------------------------------------
+ ---------------
  ## Contatos
 </div>
 
