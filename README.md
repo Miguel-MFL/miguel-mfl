@@ -8,6 +8,7 @@
      <img align="center" alt="Rafa-CSS" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Migul-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img align="center" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="50"/>
  
  -------------------------------------------------------------------------------------------------------------
 
@@ -16,7 +17,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-MFL&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=1C1C1C" />
 </div>
 
- ---------------
+ -------------------------------------------------------------------------------------------------------------
  ## Contatos
 </div>
 
